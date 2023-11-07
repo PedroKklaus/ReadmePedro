@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+Code&pause=100&color=00ff00&width=435&lines=BOA+TARDE+FAMÍLIA+🏐👋😎;Bem-vindo(a)+ao+perfil+do+teu+pai+🔥" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+Code&pause=100&color=00ff00&width=435&lines=BOA+TARDE+FAMÍLIA+🏐👋😎;Bem-vindo(a)+ao+meu+perfil+🔥" alt="Typing SVG" /></a>
 </p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
@@ -9,13 +9,13 @@
 
 ```JavaScript
 function readme () {
- const name = "Gabriel da Cruz Bogo";
- let age = 19;
+ const name = "Pedro Henrique Klaus";
+ let age = 22;
  
- let description = "Atualmente estudando Engenharia de Software na UniAmérica, em busca do primeiro emprego na área";
- let basicKnowledge = ['HTML', 'CSS', 'JavaScript', 'C'];
+ let description = "Atualmente estudando Engenharia de Software na UniAmérica, em busca de novos desafios";
+ let basicKnowledge = ['HTML', 'CSS', 'JavaScript', 'C', 'Java'];
  
- let learning = ['Python', 'Java'];
+ let learning = ['Anguar', 'PHP', 'Laravel'];
  console.log ("Estudando também diferentes distros de Linux!");
  
 }
